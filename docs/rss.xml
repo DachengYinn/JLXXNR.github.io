@@ -1,2 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://DachengYinn.github.io/JLXXNR.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://DachengYinn.github.io/JLXXNR.github.io</link></image><lastBuildDate>Sat, 22 Jun 2024 14:07:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://DachengYinn.github.io/JLXXNR.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://DachengYinn.github.io/JLXXNR.github.io</link></image><lastBuildDate>Sat, 22 Jun 2024 16:00:59 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Second Issue</title><link>https://DachengYinn.github.io/JLXXNR.github.io/post/Second%20Issue.html</link><description># 《非常好的ISSUE使我大脑旋转》&#13;
+### Index&#13;
+- [前言](#〇前言)&#13;
+    - [起因](#01最初的起因)&#13;
+    - [一些前置信息](#02一些必要前置信息)&#13;
+&#13;
+## [〇、前言]&#13;
+&#13;
+### [0.1最初的起因]&#13;
+最初的动机是在网站上看到了一段关于Gmeek的永存博客的内容，作者提出了类似`printf('我提交的issue能存活一百年')`的经典观点。</description><guid isPermaLink="true">https://DachengYinn.github.io/JLXXNR.github.io/post/Second%20Issue.html</guid><pubDate>Sat, 22 Jun 2024 14:03:57 +0000</pubDate></item></channel></rss>
