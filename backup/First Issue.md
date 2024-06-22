@@ -17,7 +17,7 @@
 
 #### [0.2.2Markdown语法]
 **bold**
-*itlia*
+*italic*
 ~~delete~~
 ==mark==
 <u>HTML underline</u>
